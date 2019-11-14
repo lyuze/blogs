@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="boot-blog.main" target="1.8" />
+      <module name="boot-blog.test" target="1.8" />
+      <module name="mongodb-file-server-master.main" target="1.8" />
+      <module name="mongodb-file-server-master.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
